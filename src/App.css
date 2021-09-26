@@ -29,7 +29,7 @@ a:hover{
 }
 
 .main{
-    flex: 0.8;
+    flex: 0.91;
     width: 100%;
     
 }
@@ -360,7 +360,7 @@ width: 70%;
     min-height: 65vh !important;
 }
 .crypto-card{
-    min-width: 250px;
+    min-width: 245px;
 }
 .crypto-card .crypto-image{
     width:35px;
